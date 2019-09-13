@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-hw",
+  "version": "1.0.0",
+  "description": "nyt hw",
+  "main": "server.js",
+  "scripts": {
+    "test": "nyt",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmonsm13/MongoDB-HW.git"
+  },
+  "keywords": [
+    "nyt"
+  ],
+  "author": "Michael Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simmonsm13/MongoDB-HW/issues"
+  },
+  "homepage": "https://github.com/simmonsm13/MongoDB-HW#readme"
+}
