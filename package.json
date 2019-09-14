@@ -2,7 +2,7 @@
   "name": "mongodb-hw",
   "version": "1.0.0",
   "engines": {
-    "node": 11.14.0
+    "node": "11.14.0"
   },
   "description": "nyt hw",
   "main": "server.js",
