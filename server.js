@@ -20,6 +20,7 @@ if (process.env.MONGODB_URI) {
 } else {
   mongoose.connect(databaseUrl);
 }
+///////////////////////////////////////
 
 mongoose.Promise = Promise;
 var db = mongoose.connection;
