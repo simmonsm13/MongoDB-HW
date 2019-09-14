@@ -47,8 +47,7 @@ app.set("view engine", "handlebars");
 // app.listen(port, function() {
 // console.log("Listening on port " + port);
 // });
-app.listen(process.env.PORT || 55132, function(){ console.log(‘listening on’, app.address().port);
-});
+app.listen(process.env.PORT || port);
 
 // Routes
 
